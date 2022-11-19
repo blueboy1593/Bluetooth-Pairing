@@ -1,7 +1,7 @@
 # Bluetooth-Pairing
 ## 블루투스 페어링 앱
-![ezgif com-gif-success](https://user-images.githubusercontent.com/52685277/202855764-b713b132-f4a2-4b6e-97d2-e533c5342383.gif)
 ![ezgif com-gif-fail](https://user-images.githubusercontent.com/52685277/202855765-4b9ce627-020a-42f3-bf54-6f2c41ceb9c9.gif)
+![ezgif com-gif-success](https://user-images.githubusercontent.com/52685277/202855764-b713b132-f4a2-4b6e-97d2-e533c5342383.gif)
 <img width="332" alt="Kkobluetooth1" src="https://user-images.githubusercontent.com/52685277/202855457-4d65cc59-386b-4e47-9039-0de36a117043.png">
 <img width="335" alt="Kkobluetooth2" src="https://user-images.githubusercontent.com/52685277/202855459-9fa2480d-ddcf-4db5-adfb-496b9b83b227.png">
 <img width="333" alt="Kkobluetooth3" src="https://user-images.githubusercontent.com/52685277/202855460-5c13e928-4ed0-49f1-a70f-2619f3c25a36.png">
